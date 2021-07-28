@@ -1,0 +1,12 @@
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+  color: #474747;
+}
+.container {
+  width: 1107px;
+  margin-left: auto;
+  margin-right: auto;
+}

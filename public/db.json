@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "photo": "Emboar.svg",
+    "name": "Emboar",
+    "generation": 5,
+    "type": [
+      "#9D4242-Flighting", "#FB522D-Fire"
+    ],
+    "btnColor": "#474747"
+  },
+  {
+    "id": 2,
+    "photo": "Darkrai.svg",
+    "name": "Darkrai",
+    "generation": 4,
+    "type": ["#5C5C5C-Dark"],
+    "btnColor": "#7B61FF",
+    "className": "purple"
+  },
+  {
+    "id": 3,
+    "photo": "Emboar.svg",
+    "name": "Diggersby",
+    "generation": 5,
+    "type": [
+      "#AAAAAA-Normal", "#976D63-Ground"
+    ],
+    "btnColor": "#474747"
+  }
+]

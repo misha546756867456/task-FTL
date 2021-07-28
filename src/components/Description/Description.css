@@ -1,0 +1,28 @@
+.description__info {
+  display: flex;
+  margin-top: 208px;
+}
+.description__info-title {
+  font-weight: 700;
+  font-size: 48px;
+  margin-bottom: 53px;
+}
+.description__info-text {
+  width: 640px;
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 300;
+}
+.description__info-text > .new-line {
+  margin-top: 20px;
+}
+.bold-text {
+  font-weight: bold;
+}
+.new-line {
+  display: block;
+}
+.description__info-inner {
+  margin-left: 110px;
+  margin-top: 58px;
+}

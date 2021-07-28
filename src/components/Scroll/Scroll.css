@@ -1,0 +1,20 @@
+:root {
+    --light-black: #474747;
+}
+.scroll-btn {
+    width: 42px;
+    height: 35px;
+}
+.scroll-text {
+    font-size: 10px;
+    color: var(--light-black);
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.scroll-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 95px;
+}
